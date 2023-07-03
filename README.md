@@ -6,12 +6,7 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 #### [Want to help maintain the list?](https://github.com/awesome-NeRF/awesome-NeRF/issues/108#issuecomment-1350732470)
 
 
-## Table of Contents
 
-- [Survey](#survey) 
-- [Papers](#papers)
-- [Talks](#talks)
-- [Implementations](#implementations)
 
 ## Survey
 - [BeyondPixels: A Comprehensive Review of the Evolution of Neural Radiance Fields](https://arxiv.org/abs/2306.03000), AKM Shahariar Azad Rabby and Chengcui Zhang, Arxiv 2023 | [bibtex](citations/BeyondPixels.txt)
